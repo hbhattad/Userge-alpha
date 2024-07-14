@@ -1,21 +1,3 @@
-<p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
-        <img src="resources/userge.png" alt="Userge">
-    </a>
-    <br>
-    <b>Pluggable Telegram UserBot</b>
-    <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#deployment-">Deployment</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
-</p>
-
 # Userge 🔥
 
 [![Build Status](https://travis-ci.com/UsergeTeam/Userge.svg?branch=alpha)](https://travis-ci.com/UsergeTeam/Userge)
@@ -52,19 +34,3 @@
 ## [Documentation](http://theuserge.tech) 📘
 
 ## [Deployment](http://theuserge.tech/deployment) 👷
-
-## [Plugins](https://github.com/UsergeTeam/Userge-Plugins) 🔌
-
-### Support & Discussions 👥
-
-> Head over to the [Discussion Group](https://t.me/usergeot) and [Update Channel](https://t.me/theUserge)
-
-### Project Credits 💆‍♂️
-
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
-* [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
-
-### Copyright & License 👮
-
-* Copyright (C) 2020 - 2022 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
